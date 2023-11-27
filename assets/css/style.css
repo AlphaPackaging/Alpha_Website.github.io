@@ -238,7 +238,7 @@ h6 {
 * Mobile Navigation 
 */
 .mobile-nav-toggle {
-  color: #434175;
+  color: #a23b30;
   font-size: 28px;
   cursor: pointer;
   display: none;
@@ -286,7 +286,7 @@ h6 {
   left: 15px;
   padding: 10px 0;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: #deddec;
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -295,13 +295,13 @@ h6 {
 .navbar-mobile a:focus {
   padding: 10px 20px;
   font-size: 15px;
-  color: #434175;
+  color: #000000;
 }
 
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #5a5af3;
+  color: #a23b30;
 }
 
 .navbar-mobile .getstarted,
